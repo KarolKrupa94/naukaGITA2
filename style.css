@@ -1,0 +1,15 @@
+/* Global */
+
+body {
+    margin: auto;
+    text-align: left;
+    background: black;
+    color: red;
+    font-size: 18px;
+    line-height: 1.7;
+    font-family: 'Inconsolata', serif;
+}
+
+section {
+    padding: 108px;
+}
